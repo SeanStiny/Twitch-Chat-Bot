@@ -1,4 +1,5 @@
-## What is this?
+
+## About
 
 This is a simple Twitch chat bot that I will continue to add more features to. It's main purpose is for my own Twitch chat but I thought I would share the source for anyone that wishes to use it.
 
